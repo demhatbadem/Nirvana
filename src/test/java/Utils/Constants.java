@@ -7,7 +7,7 @@ public class Constants {
     public static final String CHROMEDRIVER_PATH = System.getProperty("user.dir") + "/src/test/resources/drivers/chromedriver";
     public static final int IMPLICIT_WAIT_TIME=10;
     public static final int EXPLICIT_WAIT_TIME=20;
-    public static final String SCREENSHOT_FILEPATH ="/Users/demo/IdeaProjects/AliCucumber/target/screenshot/";
+    public static final String SCREENSHOT_FILEPATH ="/Users/demo/IdeaProjects/OrangeHrms/target/screenshot/";
 
 }
 
